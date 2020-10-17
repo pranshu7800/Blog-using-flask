@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/noobcoder",
+    "prod_uri": "mysql://root:@localhost/noobcoder",
+    "fb_url": "https://facebook.com/thedebughub",
+    "tw_url": "https://twitter.com/thedebughub",
+    "gh_url": "https://github.com/pranshu7800",
+    "blog_name": "The Debug Hub",
+    "tag_line": "A Blog by the Engineer",
+    "gmail-user": "albertkaine9988@gmail.com",
+    "gmail-password": "8103alkaine007",
+    "about_text": "Hi, My name is Pranshu Pachouri. I am a B.Tech student from Arya Institute of Engineering and Technology, Jaipur currently in 3rd year IT branch. Hope you like my blogs.",
+    "no_of_posts": 3,
+    "login_image": "login.png",
+    "admin_user": "pranshu",
+    "admin_pass": "pranshu123",
+    "upload_location": "C:\\Users\\Pranshu Pachouri\\PycharmProjects\\Flask\\static"
+
+  }
+}
